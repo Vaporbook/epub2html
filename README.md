@@ -1,9 +1,9 @@
+epub2html
+===========
 
-=Epub2Html
+# What It Does
 
-
-
-==Turns Epub metadata into useful structural markup
+Turns Epub metadata into useful structural markup
 
 
 
