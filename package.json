@@ -1,6 +1,6 @@
 {
   "name": "epub2html",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Converts internal metadata of Epub files to useful structural markup.",
   "main": "index.js",
   "directories": {
@@ -17,7 +17,7 @@
     "epub"
   ],
   "dependencies": {
-    "epub-parser": ">=0.1.0"
+    "epub-parser": ">=0.2.0"
   },
   "author": "vaporbook",
   "license": "BSD"
